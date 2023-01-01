@@ -9,4 +9,4 @@ Der Stapel ist **nicht offiziell** und dient **nicht als Ersatz** für die Vorle
 
 ## Anki-Web
 Der Kartenstapel ist auch auf AnkiWeb:
-[https://ankiweb.net/shared/info/973958411](https://ankiweb.net/shared/info/973958411)
+[https://ankiweb.net/shared/info/1246303009](https://ankiweb.net/shared/info/1246303009)
