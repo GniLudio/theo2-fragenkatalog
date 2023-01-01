@@ -1,5 +1,4 @@
-# Theo 2 - Fragenkatalog
-Anki-Deck für Theoretische Informatik 2
+# Theoretische Informatik 2 - Fragenkatalog
 
 ## Allgemein
 Dies ist ein Anki-Kartenstapel für "Theoretische Informatik 2" der Universität Bremen.
